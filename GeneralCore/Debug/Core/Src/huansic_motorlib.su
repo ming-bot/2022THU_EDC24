@@ -1,0 +1,2 @@
+../Core/Src/huansic_motorlib.c:10:6:huansic_motor_init	16	static
+../Core/Src/huansic_motorlib.c:57:6:huansic_motor_pid	40	static

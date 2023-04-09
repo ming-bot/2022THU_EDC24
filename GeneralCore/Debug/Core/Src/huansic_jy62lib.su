@@ -1,0 +1,9 @@
+../Core/Src/huansic_jy62lib.c:38:17:huansic_jy62_init	16	static
+../Core/Src/huansic_jy62lib.c:79:17:huansic_jy62_dma_isr	24	static
+../Core/Src/huansic_jy62lib.c:156:17:huansic_jy62_isr	16	static
+../Core/Src/huansic_jy62lib.c:178:6:huansic_jy62_dma_error	16	static
+../Core/Src/huansic_jy62lib.c:198:6:huansic_jy62_it_error	16	static
+../Core/Src/huansic_jy62lib.c:212:20:__huansic_jy62_decode_accel	32	static
+../Core/Src/huansic_jy62lib.c:223:20:__huansic_jy62_decode_omega	32	static
+../Core/Src/huansic_jy62lib.c:234:20:__huansic_jy62_decode_theta	32	static
+../Core/Src/huansic_jy62lib.c:245:20:__huansic_jy62_decode_temp	24	static

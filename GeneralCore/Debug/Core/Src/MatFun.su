@@ -1,0 +1,9 @@
+../Core/Src/MatFun.c:13:6:InitMatrix	24	static
+../Core/Src/MatFun.c:26:6:ValueMatrix	16	static
+../Core/Src/MatFun.c:34:5:SizeMatrix	16	static
+../Core/Src/MatFun.c:39:6:CopyMatrix	24	static
+../Core/Src/MatFun.c:47:6:AddMatrix	24	static
+../Core/Src/MatFun.c:65:6:SubMatrix	24	static
+../Core/Src/MatFun.c:84:6:MulMatrix	32	static
+../Core/Src/MatFun.c:111:6:InvMatrix	32	static
+../Core/Src/MatFun.c:136:6:TransMatrix	16	static

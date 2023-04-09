@@ -1,0 +1,6 @@
+../Core/Src/task.c:23:6:set_Beacons	16	static
+../Core/Src/task.c:34:6:Cal_Battery_Coord	16	static
+../Core/Src/task.c:51:6:Get_packet	16	static
+../Core/Src/task.c:56:6:Send_packet	16	static
+../Core/Src/task.c:61:12:Get_nearest_consumer	32	static
+../Core/Src/task.c:87:12:Get_nearest_Beacon	24	static
